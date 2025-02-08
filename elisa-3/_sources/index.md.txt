@@ -1,0 +1,30 @@
+Elisa-3是Elisa机器人的升级版，基于不同的微控制器，包括一组全面的传感器：
+
+-   Atmel 2560微控制器（兼容Arduino）
+
+-   中央RGB led
+
+-   机器人周围的8个绿色LED
+
+-   红外发射器
+
+-   8个红外接近传感器（Vishay半导体反射光学传感器）
+
+-   4个地面传感器（Fairchild Semiconductor Minature反光物体传感器）
+
+-   3轴加速计（Freescale MMA7455L）
+
+-   通信用射频无线电（Nordic Semiconductor nRF24L01+）
+
+-   用于编程、调试和充电的微型USB连接器
+
+-   红外接收器
+
+-   2个直流电机
+
+-   顶部光漫射器（透光外罩）
+
+-   1个选择器
+
+![Elisa3-mainComp-digital-white](images/media/image1.png){width="4.299305555555556in"
+height="3.84375in"}
